@@ -129,7 +129,3 @@ streamlit run app.py
 
 This software is released under the **[MIT License](./LICENSE)**. You are free to use, modify, and distribute it for both commercial and non-commercial purposes.
 
-<div align="center">
-  <br>
-  <i>Built with ❤️ for smarter, safer cities.</i>
-</div>
