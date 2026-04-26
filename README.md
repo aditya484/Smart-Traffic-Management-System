@@ -13,7 +13,8 @@
 
 </div>
 
----
+
+
 ## 📖 About the Project
 
 Traditional traffic light systems operate on fixed timers, leading to unnecessary congestion, increased emissions, and critical delays for emergency vehicles. **Smart Traffic Management System** tackles this problem by providing a modern, software-based approach to intersection control. 
