@@ -8,7 +8,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)](#)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=render&logoColor=white)](https://smart-traffic-management-system-s9en.onrender.com)
+[![Live Demo(Render)](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=render&logoColor=white)](https://smart-traffic-management-system-s9en.onrender.com)
 > *An intelligent, AI-driven traffic intersection dashboard capable of dynamic signal allocation, automated emergency vehicle prioritization, and highly responsive real-time analytics.*
 
 </div>
